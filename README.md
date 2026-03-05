@@ -11,6 +11,7 @@ You press the keys for Copy, paste, cut, and the knob for volume control! (this 
 Soon it will have a nice software and faster click times for Geometry Dash, Osu and even more!
 
 Also, All these features except from the "Copy, Paste, Cut, Volume Controls" work in my example firmware, but I will do the rest of the features when the parts come.
+And then, "you still didn't use the selector wheel, do you mean the rotary knob is for then you should fix it - @PenguinMo"  Selector Wheel is gonna be a overlay UI coming out after I get the parts to make and test it out, and that is what the rotary knob will be used for after i recieve the parts, but as for now, its a Volume Control.
 
 ## Why did I make this?
 I want to help other people make a macropad, so I made this so other people can base off this project, and especially the software.
