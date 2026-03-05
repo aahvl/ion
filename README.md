@@ -10,6 +10,8 @@ Ion(Pad) is a multi usage macropad that will have a selector wheel, customizable
 You press the keys for Copy, paste, cut, and the knob for volume control! (this is what it does now.)
 Soon it will have a nice software and faster click times for Geometry Dash, Osu and even more!
 
+Also, All these features except from the "Copy, Paste, Cut, Volume Controls" work in my example firmware, but I will do the rest of the features when the parts come.
+
 ## Why did I make this?
 I want to help other people make a macropad, so I made this so other people can base off this project, and especially the software.
 
