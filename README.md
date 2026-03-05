@@ -1,9 +1,16 @@
 # ION
 
-A sleek, and modern macropad, for all needs.
+Hi! I am Aahil, And I made Ion!
 
-!!COMING SOON!!
-Software to change keys, open apps, and a selector wheel ;)
+Ion(Pad) is a multi usage macropad that will have a selector wheel, customizable keys, and even more along the way.
+
+##How will you use the IonPad?
+You press the keys for Copy, paste, cut, and the knob for volume control! (this is what it does now.)
+Soon it will have a nice software and faster click times for Geometry Dash, Osu and even more!
+## Why did I make this?
+I want to help other people make a macropad, so I made this so other people can base off this project, and especially the software.
+
+
 
 ![alt text](images/pre1.png)
 
